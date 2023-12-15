@@ -1,0 +1,2 @@
+# KawaiAplKotlin
+Aplikasi kotlin sederhana
